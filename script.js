@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const sizeElement = document.createElement("h1");
+const sizeElement = document.getElementById("sizeInfo");
 
 
 document.body.append(sizeElement);
